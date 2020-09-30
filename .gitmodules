@@ -3,4 +3,5 @@
 	url = https://github.com/taksau/sglabv1.git
 [submodule "gpsnet-detectron/Detectron.pytorch"]
 	path = gpsnet-detectron/Detectron.pytorch
-	url = git@github.com:roytseng-tw/Detectron.pytorch.git
+	url = https://github.com/roytseng-tw/Detectron.pytorch.git
+	# url = git@github.com:roytseng-tw/Detectron.pytorch.git
